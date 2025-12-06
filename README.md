@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![suna-big grass animation](./suna-big-grass.gif)
 
-[![suna-big](https://typograssy.deno.dev/api?text=suna-big)](https://github.com/kawarimidoll/typograssy)
